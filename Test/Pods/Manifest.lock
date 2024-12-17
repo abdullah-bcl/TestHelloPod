@@ -1,0 +1,16 @@
+PODS:
+  - TestHelloPod (0.0.1)
+
+DEPENDENCIES:
+  - TestHelloPod (from `../`)
+
+EXTERNAL SOURCES:
+  TestHelloPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestHelloPod: 9794758d2b8f96fd814e0dbe2054f36490fdf401
+
+PODFILE CHECKSUM: 9258ac31aebe3b6fcd0122b91a5a67a6452fbb47
+
+COCOAPODS: 1.15.2

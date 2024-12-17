@@ -1,0 +1,23 @@
+{
+  "name": "TestHelloPod",
+  "version": "0.0.1",
+  "summary": "TestHelloPod is a test pod.",
+  "homepage": "https://github.com/abdullah-bcl/TestHelloPod",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YOURNAME": "Abdullah"
+  },
+  "source": {
+    "git": "https://github.com/abdullah-bcl/TestHelloPod.git",
+    "tag": "0.0.1"
+  },
+  "frameworks": "UIKit",
+  "source_files": "TestHelloPod/*",
+  "requires_arc": true
+}

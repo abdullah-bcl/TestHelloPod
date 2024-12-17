@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		E427A1C82D119213006D7E8A /* libTestHelloPod.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libTestHelloPod.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		E427A1D32D119716006D7E8A /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -44,6 +45,7 @@
 		E427A1BF2D119213006D7E8A = {
 			isa = PBXGroup;
 			children = (
+				E427A1D32D119716006D7E8A /* LICENSE */,
 				E427A1CA2D119213006D7E8A /* TestHelloPod */,
 				E427A1C92D119213006D7E8A /* Products */,
 			);

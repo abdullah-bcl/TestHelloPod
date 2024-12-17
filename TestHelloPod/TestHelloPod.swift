@@ -6,7 +6,7 @@
 //
 
 public class TestHelloPod {
-    public func sayHello() -> () {
+    public static func sayHello() -> () {
         return print("Hello, World!")
     }
 }
